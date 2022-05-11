@@ -1,0 +1,128 @@
+.text-algin-center {
+    text-align: center;
+    margin: 0px auto;
+}
+
+/* .sidebar {
+    flex: 2;
+     background-color: yellow; 
+    height: 100vh;
+} */
+
+.proflie_image {
+    margin-top: 2%;
+
+}
+
+.proflie_image img {
+    width: 45%;
+    width: 53%;
+    border-radius: 52%;
+
+}
+
+.name {
+    font-size: 29px;
+    font-weight: 900;
+    margin: 5px 0px;
+}
+
+.developer p {
+    font-size: 22px;
+    margin: 7px 0px;
+    font-weight: 700;
+
+}
+
+.sidebarHome {
+    background-color: #373738;
+    width: 70%;
+    margin: 15px auto 16px  auto;
+    padding: 10px 14px;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.text-decoration-none{
+    text-decoration: none;
+}
+.sidebarHome:hover{
+    background-color: grey;
+}
+
+.sidebarAbout {
+    background-color: #373738;
+    width: 70%;
+    margin: 15px auto 16px  auto;
+    padding: 10px 14px;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.sidebarAbout:hover{
+    background-color: grey;
+}
+
+.sidebarEducation {
+    background-color: #373738;
+    width: 70%;
+    margin: 15px auto 16px  auto;
+    padding: 10px 14px;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.sidebarEducation:hover{
+    background-color: grey;
+}
+
+.SidebarPortfolio {
+    background-color: #373738;
+    width: 70%;
+    margin: 15px auto 16px  auto;
+    padding: 10px 14px;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.SidebarPortfolio:hover{
+    background-color: grey;
+}
+
+.sidebarContact {
+    background-color: #373738;
+    width: 70%;
+    margin: 15px auto 16px  auto;
+    padding: 10px 14px;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.sidebarContact:hover{
+    background-color: grey;
+}
+
+.SidebarLogin {
+    background-color: #373738;
+    width: 70%;
+    margin: 15px auto 16px  auto;
+    padding: 10px 14px;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.SidebarLogin:hover{
+    background-color: grey;
+}

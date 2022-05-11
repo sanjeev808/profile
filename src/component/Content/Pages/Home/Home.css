@@ -1,0 +1,38 @@
+.Home-content{
+    margin-top: 18%;
+}
+.home{
+    height: 43%;
+    /* background: red; */
+    width: 50%;
+    margin: 0px auto ;
+
+}
+.heading{
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.name-heading{
+    font-size: 41px;
+    margin: 16px 0px;
+    font-weight: 900;
+
+}
+.name-heading span{
+    color: yellow;
+}
+.description{
+    font-size: 20px;
+    font-weight: 500;
+}
+.btn2{
+    background: yellow;
+    width: 100px;
+    color: black;
+    text-align: center;
+    padding: 11px 11px;
+    margin: 29px 0px;
+    text-decoration: none;
+    display: inline-block;
+}

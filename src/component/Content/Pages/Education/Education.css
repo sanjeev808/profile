@@ -1,0 +1,30 @@
+.d-flex{
+    display: flex;
+}
+.text-decoration-none{
+    text-decoration: none;
+}
+.justify-content-around{
+    justify-content: space-around;
+}
+
+.education-heading{
+    text-align: center;
+    margin: 23px 0px;
+    font-size: 28px;
+}
+.line hr{
+    width: 10px;
+    height: 99px;
+    background: red;
+    margin-left: 5px;
+    margin-top: -6px;
+}
+.line img{
+    width: 23px;
+    color: yellow;
+    background: yellow;
+}
+.education-detail{
+    margin: 10px 0px 0px 10px;
+}

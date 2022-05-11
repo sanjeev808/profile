@@ -1,0 +1,155 @@
+.signin {
+    /* background-color: yellow; */
+    width: 50%;
+    display: flex;
+    width: 50%;
+    flex: 1;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.signCenter {
+    margin: 0px auto;
+    width: 390px;
+    align-items: center;
+    font-size: 29px;
+    font-weight: 500;
+    margin-top: 110px;
+}
+
+.signCenter h2 {
+    text-align: center;
+}
+
+/* social icons */
+.icons {
+    margin-top: 10px;
+    padding: 6px 0px;
+    justify-content: space-evenly;
+    /* background-color: blue; */
+}
+
+/* .icons img {
+    width: 50px;
+    text-align: center;
+    align-items: center;
+} */
+
+.icons .facebook-icon {
+    width: 49px;
+    /* background: red; */
+    border-radius: 31px;
+    border: 2px solid #444242;
+}
+.icons .facebook-icon img {
+    margin-top: 9px;
+    width: 28px;
+    margin-left: 8px;
+}
+.icons .google-icon {
+    width: 49px;
+    /* background: red; */
+    border-radius: 31px;
+    border: 2px solid #444242;
+}
+.icons .google-icon img {
+    margin-top: 11px;
+    width: 28px;  
+    margin-left: 11px;
+}
+.icons .linkdin-icon {
+    width: 49px;
+    /* background: red; */
+    border-radius: 31px;
+    border: 2px solid #444242;
+}
+.icons .linkdin-icon img {
+    margin-top: 11px;
+    width: 28px;  
+    margin-left: 11px;
+}
+/* form  css*/
+.account{
+    font-size: 20px;
+    text-align: center;
+    margin: 12px 0px;
+}
+#email{
+    background-color: #eee;
+    border: none;
+    padding: 12px 15px;
+    margin: 8px 38px;
+    width: 75%;
+
+}
+#email:focus{
+    border: none;
+}
+
+#email::placeholder {
+    /* color: red; */
+    padding-left: 10px; /* margin-left: 20px; */
+  }
+  #password{
+    background-color: #eee;
+    border: none;
+    padding: 12px 15px;
+    margin: 8px 38px;
+    width: 75%;
+}
+.forget{
+    font-size: 20px;
+    text-align: center;
+    margin: 25px 0px;
+}
+.btn{
+border-radius: 20px;
+border: 1px solid #FF4B2B;
+background-color: #FF4B2B;
+color: #FFFFFF;
+font-size: 12px;
+font-weight: bold;
+padding: 12px 45px;
+letter-spacing: 1px;
+text-transform: uppercase;
+transition: transform 80ms ease-in;
+justify-content: center;
+display: flex;
+margin: 0px auto;
+}
+.margin{
+    margin: 0px auto;
+}
+
+
+.signup{
+    width: 50%;
+}
+.content1{
+    margin: 0px auto;
+    width: 390px;
+    align-items: center;
+    font-size: 29px;
+    font-weight: 500;
+    margin-top: 187px;
+    text-align: center;
+}
+.signup-para{
+    font-size: 20px;
+    margin: 17px 0px;
+
+}
+.btn1{
+    border-radius: 20px;
+    border: 1px solid #FF4B2B;
+    background-color: #FF4B2B;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+}
