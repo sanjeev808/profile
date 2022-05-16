@@ -1,0 +1,100 @@
+.d-flex{
+    display: flex;
+}
+.text-decoration-none{
+    text-decoration: none;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+.contact{
+    margin: 62px 0px 0px 34px;
+}
+.contact-heading{
+    text-align: center;
+    margin: 23px 0px;
+    font-size: 28px;
+}
+.contact-mail{
+    align-items: center;
+    display: flex;
+}
+.contact-left{
+flex-direction: column;
+}
+.contact-mail span {
+    font-size: 24px;
+}
+.color{
+    font-size: 33px !important; 
+    padding: 11px 10px;
+}
+.MuiSvgIcon-root path {
+    color: #0035fd;
+}
+
+.form{width: 650px;}
+
+input[type=text] {
+    width: 70%;
+    padding: 18px 6px;
+    font-size: 17px;
+    margin-bottom: 19px;
+    background: #373738;
+    border: none;
+    border-radius: 8px;
+}
+input[type=text]::placeholder{
+    color: white;
+}
+
+
+
+input[type=email] {
+    width: 70%;
+    padding: 18px 6px;
+    font-size: 17px;
+    margin-bottom: 19px;
+    background: #373738;
+    border: none;
+    border-radius: 8px;
+}
+
+input[type=email]::placeholder{
+    color: white;
+}
+
+textarea{
+    width: 70%;
+    padding: 19px 0px 0px 10px;
+    font-size: 17px;
+    margin-bottom: 19px;
+    background: #373738;
+    border: none;
+    border-radius: 8px;
+}
+
+textarea::placeholder{
+    color: white;
+    margin-top: 10px;
+
+}
+
+.sendBtn{
+    display: flex;
+    align-items: center;
+    width: 125px;
+    padding: 14px 27px;
+    font-size: 20px;
+    background: #373738;
+    border: none;
+    border-radius: 33px;
+    cursor: pointer;
+
+}
+
+.sendicon{
+    background:none;
+    transform: rotate(-45deg);
+    padding: 0px 5px;
+}

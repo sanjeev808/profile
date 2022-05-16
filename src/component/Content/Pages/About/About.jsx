@@ -15,7 +15,7 @@ export default function About() {
                 <div className='data'>
                     <h3>Name : <span>Sanjeev Maurya</span></h3>
                     <h3>Age : <span>23</span></h3>
-                    <h3>Age : <span>23</span></h3>
+                   
                     <h3>Qualification : <span>B.Tech</span></h3>
                     <h3>Post : <span>Front End Developer </span></h3>
                     <h3>Language : <span>Hindi, English, Punjabi</span></h3>

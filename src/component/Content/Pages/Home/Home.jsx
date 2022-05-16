@@ -8,7 +8,7 @@ export default function Home() {
         <div className='Home-content'>   <div className='home'>
             <div className='heading'>
 
-                <h3> Hi THERE!</h3>
+                <h3> HI THERE!</h3>
             </div>
             <div className='name-heading'>
                 <h2>I'M <span>Sanjeev Maurya</span></h2>

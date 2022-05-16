@@ -34,6 +34,7 @@
     cursor: pointer;
     text-decoration: none;
     display: inline-block;
+    font-weight: 600;
 }
 .box1{
     width: 180px;

@@ -14,10 +14,10 @@ export default function Sidebar() {
         <div className='name'><h3>Sanjeev Maurya</h3></div>
         <div className='developer'><p>Front End Developer</p></div>
         <NavLink to='/home' className='text-decoration-none'><div className='sidebarHome'>Home</div></NavLink>
-        <NavLink to='/about' className='text-decoration-none'> <div className='sidebarAbout'>About</div></NavLink>
+        <NavLink to='/about' className='text-decoration-none'> <div className='sidebarAbout'>About Us</div></NavLink>
         <NavLink to='/education' className='text-decoration-none'>  <div className='sidebarEducation'>Education</div></NavLink>
         <div className='SidebarPortfolio'>Portfolio</div>
-        <div className='sidebarContact'>Contact</div>
+        <NavLink to='/contact' className='text-decoration-none'>   <div className='sidebarContact'>Contact Us</div> </NavLink>
     <NavLink to='/login'>
           <div>
             <div className='SidebarLogin' onClick={() => { setOpenModal(true) }}>Login</div>

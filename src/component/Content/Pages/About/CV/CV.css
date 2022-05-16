@@ -1,0 +1,32 @@
+.Cv{
+ 
+    /* background-color: yellow; */
+    margin: 0px auto;
+    width: 900px;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+.Cv::-webkit-scrollbar{
+    display: none;
+}
+.Cv {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.d-flex{
+    display: flex;
+}
+.justify-content-around
+{
+    justify-content: space-around;
+}
+
+.cvleft{
+    flex:1;
+    height: 100vh;
+}
+.cvright{
+    flex: 2;
+}

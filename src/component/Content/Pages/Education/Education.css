@@ -13,18 +13,43 @@
     margin: 23px 0px;
     font-size: 28px;
 }
-.line hr{
-    width: 10px;
-    height: 99px;
-    background: red;
-    margin-left: 5px;
-    margin-top: -6px;
+.line{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
 }
-.line img{
-    width: 23px;
-    color: yellow;
-    background: yellow;
+.line hr{
+    width: 1.5px;
+    height: 100%;
+    background: white;
+}
+.root{
+    background-color: yellow !important;
+ width: 30px !important; 
+    padding: 8px !important;
+    border-radius: 22px !important; 
+}
+.MuiSvgIcon-root path {
+    filter: invert();
 }
 .education-detail{
-    margin: 10px 0px 0px 10px;
+    margin: 10px 1px 7px 24px;
+    width: 300px;
+}
+
+.education-detail h4{
+    margin-bottom: 10px;
+        background: #373738;
+        width: 127px;
+        padding: 11px 6px;
+        text-align: center;
+        border-radius: 36px;
+}
+
+.education-detail h2{
+    font-size: 31px;
+    margin: 13px 0px;
+}
+.education-detail p{
+    font-size: 22px;
 }

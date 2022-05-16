@@ -7,6 +7,7 @@ import './../App.css'
 import About from './Content/Pages/About/About';
 import CV from './Content/Pages/About/CV/CV';
 import Education from './Content/Pages/Education/Education';
+import Contact from './Content/Pages/Contact/Contact';
 
 
 export default function Routing() {
@@ -19,6 +20,9 @@ export default function Routing() {
       <Route path="/about" element={<About/>}/>
       <Route path='/about/resume' element={<CV/>}/>
       <Route path='/education' element={<Education/>}/>
+      <Route path='/contact' element={<Contact/>}/>
+     
+
 
 
     </Routes></div>

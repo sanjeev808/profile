@@ -1,0 +1,92 @@
+.d-flex {
+    display: flex;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.c-373738 {
+    color: #b8b8bf;
+}
+
+.Cvright {
+    /* background-color: yellow; */
+    font-size: 20px;
+}
+
+.cvright-container {
+    margin-left: 29px;
+}
+
+.cv-right-details {
+    margin: 120px 0px 0px 0px;
+}
+
+/* education section css */
+.cvright-education h2 {
+    margin-top: 26px;
+    margin-bottom: 5px;
+}
+
+.cvright-education-heading {
+    margin: 31px 4px 0px 0px;
+}
+
+.cvright-education {
+    margin: 9px 0px;
+    align-items: baseline;
+}
+
+.cvright-education-content-date {
+    margin-top: 10px;
+}
+
+.cvright-education-content h2 {
+    font-size: 21px;
+    width: 295px;
+}
+
+.cvright-education-content p {
+    font-size: 19px;
+    margin-top: 7px;
+    width: 336px;
+}
+
+/* work  history */
+.cvright-work-content {
+    width: 330px;
+}
+
+.cvright-work h2 {
+    margin-top: 26px;
+    margin-bottom: 5px;
+}
+
+.cvright-work-heading {
+    margin: 31px 4px 0px 0px;
+}
+
+.cvright-work {
+    margin: 9px 0px;
+    align-items: baseline;
+}
+
+.cvright-work-content-date {
+    margin-top: 10px;
+}
+
+.cvright-work-content h2 {
+    font-size: 21px;
+    width: 295px;
+}
+
+.cvright-work-content p {
+    font-size: 19px;
+    margin-top: 7px;
+    width: 336px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
