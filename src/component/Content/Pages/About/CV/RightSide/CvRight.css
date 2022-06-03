@@ -7,12 +7,15 @@
 }
 
 .c-373738 {
-    color: #b8b8bf;
+    /* color: #b8b8bf; */
+    color: #58585a;
+
 }
 
 .Cvright {
     /* background-color: yellow; */
     font-size: 20px;
+    margin:0px 10px ;
 }
 
 .cvright-container {
@@ -20,21 +23,20 @@
 }
 
 .cv-right-details {
-    margin: 120px 0px 0px 0px;
+    margin: 70px 0px 0px 0px;
 }
 
 /* education section css */
 .cvright-education h2 {
-    margin-top: 26px;
     margin-bottom: 5px;
 }
 
 .cvright-education-heading {
-    margin: 31px 4px 0px 0px;
+    margin: 30px 4px 0px 0px;
 }
 
 .cvright-education {
-    margin: 9px 0px;
+    margin: 10px 0px;
     align-items: baseline;
 }
 
@@ -44,18 +46,22 @@
 
 .cvright-education-content h2 {
     font-size: 21px;
-    width: 295px;
+  
 }
 
 .cvright-education-content p {
     font-size: 19px;
     margin-top: 7px;
-    width: 336px;
+   
+}
+.width
+{
+    width: 500px;
 }
 
 /* work  history */
 .cvright-work-content {
-    width: 330px;
+    width: 450px;
 }
 
 .cvright-work h2 {

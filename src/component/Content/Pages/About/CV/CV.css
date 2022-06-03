@@ -30,3 +30,14 @@
 .cvright{
     flex: 2;
 }
+
+.pdf-line-below {
+    border-bottom: 1px solid rgb(116, 165, 255);
+}
+
+.pdfile {
+    font-size: 22px;
+}
+.padd{
+    padding-bottom: 14px;
+}

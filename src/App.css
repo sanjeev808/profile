@@ -1,8 +1,8 @@
 *{
   margin:0px;
   padding: 0px;
-  background-color: black;
-  color: white;
+  background-color:white;
+  color: black;
 }
 .main{
   display: flex;
@@ -14,4 +14,129 @@
 .Content3{
   width: 75%;
   height: 100vh;
+}
+
+
+
+.logo-gradient{
+  font-size: 72px;
+  background: linear-gradient(to right, #c0749c, #b97cac, #af84ba, #a38cc6, #9595cf, #759bd4, #4f9fd2, #1ea3c9, #00a1aa, #009c7f, #4e9250, #778328);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 60px;
+  font-weight: 700;
+}
+.h-s-100{
+  height: 100vh;
+}
+
+.t-decoration-none{
+  text-decoration: none;
+}
+.h-65{
+  height: 65%;
+}
+.emaillogo{
+  width: 20px;
+}
+.p-absolute{
+  position: absolute;
+}
+.p-left-2{
+padding-left: 12px;
+  /* padding-left: 3rem; */
+}
+.p-left-30{
+  padding-left: 30px;
+}
+.emailstyle{
+  padding-top: 10px;
+}
+.p-left-4{
+  padding-left: 4px;
+}
+.shadow-custom-1{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.logincover:hover {
+  overflow: hidden;
+  transition: transform 10s ease;
+  /* border:1px solid transparent; */
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+.overflow-h{
+  overflow:hidden
+}
+.br-radius-10{
+  border-radius: 10px;
+}
+.bg-none{
+  background-color: rgba(0, 0, 0, 0.4)
+}
+.closebtn{
+  border-radius: 50%;
+  height: 23px;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 23px;
+}
+.closebtn:hover{
+  border: 1px solid #666464;
+}
+.companyLogo{
+  width: 200px;
+}
+.p-left-right-20{
+padding-left: 20px;
+padding-right: 20px;
+}
+.h-20{
+  height: 20px;
+  width: 100%;
+  border: 1px solid black;
+}
+.pdf-line-below{
+  border-bottom:1px solid rgb(116, 165, 255);
+}
+.t-content{
+text-align: justify ;
+}
+.pdFile{
+  font-size: 22px;
+}
+.width-95{
+  width:95%
+}
+.pdf-background{
+  background-color:"#e2f4fb"
+}
+.img-width{
+  width: 100px;
+}
+.dropdownlist{
+  width: 60%;
+  height: 40px;
+  text-align: center;
+  font-size: 18px;
+  color: black;
+}
+/* table, th, td {
+  border: 1px solid;
+  border-collapse: collapse;
+} */
+input[type=file]::file-selector-button {
+  /* border: 2px solid #7e7e7e; */
+  /* padding: .2em .4em; */
+  border: 0.5px solid black;
+  border-radius: .2em;
+  background-color: #cfcfcf;
+  transition: 1s;
+}
+.btn-sort{
+    border: transparent;
+}
+.btn-background-t{
+    background: transparent;
+
 }
